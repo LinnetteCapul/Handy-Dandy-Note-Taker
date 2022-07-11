@@ -1,4 +1,4 @@
-# Handy-Dandy-Note-Taker
+# 📝 Handy Dandy Note Taker
 
 ## License
 
@@ -20,9 +20,9 @@ This handy dandy note taker is an application that assists users to keep track o
 
 ## Links
 
-- GitHub Repository Link: https://github.com/LinnetteCapul/README-Generator
+- GitHub Repository Link: https://github.com/LinnetteCapul/Handy-Dandy-Note-Taker
 
-- Application Link: https://github.com/LinnetteCapul/Handy-Dandy-Note-Taker
+- Application Link: https://linnettecapul.github.io/Handy-Dandy-Note-Taker/
 
 ## Installation
 
@@ -49,10 +49,10 @@ Please contact me at either of the following for any inquiries about the project
 
 ## Screenshots
 
-![readme-generator-screenshot01]()
+![handy-dandy-screenshot01](https://raw.githubusercontent.com/LinnetteCapul/Handy-Dandy-Note-Taker/main/images/handy-dandy-screenshot01.JPG)
 Homepage of the Handy Dandy Note Taker Application.
 
   <br>
   
-  ![readme-generator-screenshot02]()
+  ![handy-dandy-screenshot02](https://raw.githubusercontent.com/LinnetteCapul/Handy-Dandy-Note-Taker/main/images/handy-dandy-screenshot02.JPG)
 Note Taking page of application where user can type and add notes.
